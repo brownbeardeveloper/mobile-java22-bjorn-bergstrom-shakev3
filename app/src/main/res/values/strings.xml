@@ -1,0 +1,12 @@
+<resources>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_name">My Shaker App v1</string>
+    <string name="fragment_switch">Fragment</string>
+    <string name="accelerometer_switch">Accelerometer</string>
+    <string name="gyroscope_switch">Gyroscope</string>
+    <string name="magnetic_switch">Magnetic field</string>
+    <string name="compass_switch">Compass</string>
+    <string name="blank_fragmentv1">Fragment 1.0</string>
+    <string name="blank_fragmentv2">Fragment 2.0</string>
+</resources>
